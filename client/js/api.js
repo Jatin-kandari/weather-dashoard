@@ -1,5 +1,5 @@
 // API base URL
-const API_URL = 'http://localhost:5000/api/weather';
+const API_URL = 'https://weather-dashoard.onrender.com/api/weather';
 
 // Fetch weather data from our backend
 async function fetchWeather(city) {
